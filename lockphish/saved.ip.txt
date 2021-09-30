@@ -1,0 +1,12 @@
+IP: 2409:4071:229f:256b:a056:b8cd:9741:85d1
+ User-Agent: WhatsApp/2.20.199.14 AIP: 2409:4070:408c:cde8::3ca:a8a0
+ User-Agent: Mozilla/5.0 (Linux; Android 9; SM-A105F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.120 Mobile Safari/537.36IP: 2409:4071:229f:256b:11e9:7575:d96b:ac54
+ User-Agent: WhatsApp/2.20.199.14 AIP: 2409:4071:2000:1b8e:2be9:fc3c:923e:60bd
+ User-Agent: Mozilla/5.0 (Linux; U; Android 9; en-in; Redmi Note 5 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-gIP: 2405:204:5519:e295:c446:5e27:7576:3c4d
+ User-Agent: WhatsApp/2.20.199.14 AIP: 2405:204:5519:e295:1936:6067:4b99:d5d
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36IP: 2405:204:5519:e295:1936:6067:4b99:d5d
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36IP: 203.192.253.60
+ User-Agent: WhatsApp/2.20.206.24 AIP: 203.192.253.46
+ User-Agent: Mozilla/5.0 (Linux; Android 10; SM-A707F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36IP: 2401:4900:33b6:5dd1:e1c8:7870:ca1f:ceed
+ User-Agent: WhatsApp/2.21.2.18 AIP: 2401:4900:33b6:5dd1:9815:f56f:2a24:95f2
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Redmi Y2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
